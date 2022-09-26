@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gitbook-plugin-auto-summary": "^0.0.2",
+    "gitbook-plugin-summary": "^1.1.0"
+  }
+}
